@@ -1,6 +1,16 @@
 # Quantum-Resources
 Various resources, learning platforms, companies, videos, etc. relating to quantum computing, quantum networks, and quantum technology.
 
+## Table of Contents
+1. [Getting Started](#1-getting-started)
+2. [News, Podcasts, and Media](#2-news-podcasts-and-media)
+3. [Courses & Structured Learning](#3-courses--structured-learning)
+4. [Hands-On Platforms & Tools](#4-hands-on-platforms--tools)
+5. [Research & Technical References](#5-research--technical-references)
+6. [Quantum Networking & Communications](#6-quantum-networking--communications)
+7. [Industry, Companies, and Ecosystem](#7-industry-companies-and-ecosystem)
+8. [Miscellaneous](#8-miscellaneous)
+
 1. Getting Started
 Beginner-friendly material for foundational understanding.
 
