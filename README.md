@@ -29,7 +29,7 @@ Reliable channels for staying current.
 -
 
 ### Video / YouTube Channels
--
+- QubitHub's YouTube Channel with IBM Qisket Fall Fest 2025 Presentations - https://www.youtube.com/channel/UCnAr3Riy9jKddHqhWxv_ucg
 
 ---
 
